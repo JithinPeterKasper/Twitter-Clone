@@ -226,7 +226,7 @@ textarea {
 
 #tweet-button {
   border-radius: 10px;
-  background-color: #209bf0;
+  background-color: black;
   width: 78px;
   color: #fff;
   font-weight: bold;
@@ -235,7 +235,7 @@ textarea {
 }
 
 #tweet-button:hover {
-  background-color: #1e92dc;
+  background-color: grey;
 }
 
 .update-edit-buttons {
